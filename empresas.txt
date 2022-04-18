@@ -4,3 +4,5 @@ hotmart
 ultracar
 bhs
 avanade
+fiat
+lear
